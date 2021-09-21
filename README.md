@@ -5,4 +5,10 @@ Some description!
 
 ## Subheader
 
-Learning git CLI
+Additional description
+
+## Local development
+
+1. Open index.html in your browser.
+
+
